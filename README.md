@@ -11,10 +11,10 @@
 
 ## ✨ Stats 
 
-![Zhongmin's stats](https://github-readme-stats.vercel.app/api?username=zhongminlin&show_icons=true&theme=transparent&include_all_commits=true)
+![z66n's stats](https://github-readme-stats.vercel.app/api?username=z66n&show_icons=true&theme=transparent&include_all_commits=true)
 
 ## ✨ Most used languages
 
-![Zhongmin's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhongminlin&theme=transparent&layout=compact&hide=HTML)
+![z66n's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=z66n&theme=transparent&layout=compact&hide=HTML)
 
 [![My Skills](https://skillicons.dev/icons?i=py,r,matlab,latex,html,css,js,bash,linux,docker,neovim,git,md,gcp,nginx,cloudflare&perline=8)](https://skillicons.dev)

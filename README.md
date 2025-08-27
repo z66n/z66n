@@ -17,4 +17,4 @@
 
 ![z66n's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=z66n&theme=transparent&layout=compact&hide=HTML)
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,matlab,latex,html,css,js,bash,linux,docker,neovim,git,md,gcp,nginx,cloudflare&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,matlab,latex,html,css,js,ts,bash,linux,nix,bsd,docker,kubernetes,git,neovim,md,lua,php,mysql,postgres,gcp,cloudflare,nginx,go,java,astro,nodejs,react,nextjs,tailwind,deno&perline=8)](https://skillicons.dev)

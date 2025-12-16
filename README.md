@@ -1,20 +1,25 @@
-### Hi there 👋
+### Hi, I'm Zhongmin 👋
 
-- 🔭 I’m currently working on random things
-- 🌱 I’m currently learning random things
-- 👯 I’m looking to collaborate on nothing, because my repos are mostly for personal use 
-- 🤔 I’m looking for help with nothing, I RTFM
-- 💬 Ask me about whatever
-- 📫 How to reach me: don't
-- 😄 Pronouns: yeet/yank
-- ⚡ Fun fact: The fact that I am writing this GitHub profile is already fun enough
+I'm a software engineer with interests spanning data engineering, backend systems, and cloud-native applications. I enjoy building reliable systems, automating workflows, and exploring how data and infrastructure come together at scale.
 
-## ✨ Stats 
+- 🔭 Currently working on personal and exploratory projects across data, backend, and cloud infrastructure
+- 🌱 Learning more about distributed systems, system design, and performance optimization
+- 👯 Open to collaborating on well-scoped open-source projects
+- 💬 Happy to discuss software engineering, data workflows, and tooling
+- 📫 Reach me via GitHub or LinkedIn
+
+---
+
+## ✨ GitHub Stats
 
 ![z66n's stats](https://github-readme-stats.vercel.app/api?username=z66n&show_icons=true&theme=transparent&include_all_commits=true)
 
-## ✨ Most used languages
+## ✨ Most Used Languages
 
 ![z66n's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=z66n&theme=transparent&layout=compact&hide=HTML)
+
+---
+
+## 🧰 Tools & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=py,r,matlab,latex,html,css,js,ts,bash,linux,nix,bsd,docker,kubernetes,git,neovim,md,lua,php,mysql,postgres,gcp,cloudflare,nginx,go,java,astro,nodejs,react,nextjs,tailwind,deno&perline=8)](https://skillicons.dev)

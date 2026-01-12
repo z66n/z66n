@@ -12,11 +12,11 @@ I'm a software engineer with interests spanning data engineering, backend system
 
 ## ✨ GitHub Stats
 
-![z66n's stats](https://github-readme-stats.vercel.app/api?username=z66n&show_icons=true&theme=transparent&include_all_commits=true)
+![z66n's stats](https://nice-stats.vercel.app/api?username=z66n&show_icons=true&theme=transparent&include_all_commits=true)
 
 ## ✨ Most Used Languages
 
-![z66n's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=z66n&theme=transparent&layout=compact&hide=HTML)
+![z66n's Most Used Languages](https://nice-stats.vercel.app/api/top-langs/?username=z66n&theme=transparent&layout=compact&hide=HTML)
 
 ---
 

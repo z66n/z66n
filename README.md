@@ -22,4 +22,4 @@ I'm a software engineer with interests spanning data engineering, backend system
 
 ## 🧰 Tools & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,matlab,latex,html,css,js,ts,bash,linux,nix,bsd,docker,kubernetes,git,neovim,md,lua,php,mysql,postgres,gcp,cloudflare,nginx,go,java,astro,nodejs,react,nextjs,tailwind,deno&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,matlab,latex,html,css,js,ts,bash,linux,nix,bsd,docker,kubernetes,git,neovim,md,lua,php,mysql,postgres,gcp,cloudflare,nginx,go,java,astro,nodejs,react,nextjs,tailwind,deno,kotlin&perline=8)](https://skillicons.dev)

@@ -18,10 +18,6 @@ My projects are driven by curiosity and real-world use cases, from backend servi
 * Exploring open protocols and community-driven technologies
 * Experimenting with niche ideas and technologies that solve interesting problems
 
-## GitHub Activity
-
-![Stats](https://nice-stats.vercel.app/api?username=z66n&theme=transparent&rank_icon=github)
-
 ## Technologies
 
 [![Technologies](https://skillicons.dev/icons?i=py,r,js,ts,php,go,java,bash,git,linux,nix,docker,postgres,mysql,react,nextjs,astro,nodejs,deno&perline=7)](https://skillicons.dev)

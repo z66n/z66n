@@ -1,25 +1,27 @@
-### Hi, I'm Zhongmin 👋
+### z66n
 
-I'm a software engineer with interests spanning data engineering, backend systems, and cloud-native applications. I enjoy building reliable systems, automating workflows, and exploring how data and infrastructure come together at scale.
+Software engineer who enjoys building practical software, exploring how systems work, and solving problems through technology.
 
-- 🔭 Currently working on personal and exploratory projects across data, backend, and cloud infrastructure
-- 🌱 Learning more about distributed systems, system design, and performance optimization
-- 👯 Open to collaborating on well-scoped open-source projects
-- 💬 Happy to discuss software engineering, data workflows, and tooling
-- 📫 Reach me via GitHub or LinkedIn
+My projects are driven by curiosity and real-world use cases, from backend services and web applications to self-hosted software and automation. I enjoy understanding existing systems, improving software quality, and turning ideas into reliable solutions that are useful beyond the code itself.
 
----
+## Interests
 
-## ✨ GitHub Stats
+* Backend systems and APIs
+* Software architecture and modernization
+* Data processing and automation
+* Web applications and user-focused software
+* Self-hosting, open source, and independent software
 
-![z66n's stats](https://nice-stats.vercel.app/api?username=z66n&show_icons=true&theme=transparent&include_all_commits=true)
+## Currently
 
-## ✨ Most Used Languages
+* Building and maintaining independent software projects across different domains
+* Exploring open protocols and community-driven technologies
+* Experimenting with niche ideas and technologies that solve interesting problems
 
-![z66n's Most Used Languages](https://nice-stats.vercel.app/api/top-langs/?username=z66n&theme=transparent&layout=compact&hide=HTML)
+## GitHub Activity
 
----
+![Stats](https://nice-stats.vercel.app/api?username=z66n&theme=transparent&rank_icon=github)
 
-## 🧰 Tools & Technologies
+## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,matlab,latex,html,css,js,ts,bash,linux,nix,bsd,docker,kubernetes,git,neovim,md,lua,php,mysql,postgres,gcp,cloudflare,nginx,go,java,astro,nodejs,react,nextjs,tailwind,deno,kotlin&perline=8)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=py,r,js,ts,php,go,java,bash,git,linux,nix,docker,postgres,mysql,react,nextjs,astro,nodejs,deno&perline=7)](https://skillicons.dev)
